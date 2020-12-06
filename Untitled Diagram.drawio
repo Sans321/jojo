@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T18:14:08.462Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 YaBrowser/20.11.2.78 Yowser/2.5 Safari/537.36" etag="eoDJUSlb0FjRNExc5hqC" version="13.10.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-12-06T18:15:43.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 YaBrowser/20.11.2.78 Yowser/2.5 Safari/537.36" etag="z-mxnphbXiamouAHQjN-" version="13.10.9" type="github" pages="9">
   <diagram id="vaw5s7vHbz8CxRzyLfg5" name="Page-7">
     <mxGraphModel dx="1000" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -541,7 +541,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="Ut4X1gFMUILhOa2ESCs-" name="Page-6">
-    <mxGraphModel dx="1000" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="690" dy="398" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="1qkXfVKf338CE3pDMDKs-0" />
         <mxCell id="1qkXfVKf338CE3pDMDKs-1" parent="1qkXfVKf338CE3pDMDKs-0" />
@@ -574,11 +574,8 @@
         <mxCell id="1qkXfVKf338CE3pDMDKs-10" value="Ингредиенты:&lt;br&gt;Яйцо..........................................3 штуки&lt;br&gt;Помидоры.................................100 гр&lt;br&gt;Молоко......................................70 мл&lt;br&gt;Название......................количество в г." style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" parent="1qkXfVKf338CE3pDMDKs-1" vertex="1">
           <mxGeometry x="208" y="263" width="216" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="1qkXfVKf338CE3pDMDKs-12" value="&lt;font style=&quot;font-size: 10px&quot;&gt;1. Яйца взбить с молоком, добавить по вкусу соль и перец. &lt;br&gt;2.В разогретую с растительным маслом сковороду выложить мелко нарезанные помидоры. &lt;br&gt;3.Потушить 2-3 минуты на небольшом огне. &lt;br&gt;4.К помидорам вылить взбитые яйца.&lt;br&gt;5.Омлет накрыть крышкой и жарить 7 минут.&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" parent="1qkXfVKf338CE3pDMDKs-1" vertex="1">
-          <mxGeometry x="207" y="352" width="218" height="120" as="geometry" />
-        </mxCell>
-        <mxCell id="1qkXfVKf338CE3pDMDKs-13" value="&lt;font style=&quot;font-size: 10px&quot;&gt;На кухне:&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1qkXfVKf338CE3pDMDKs-1" vertex="1">
-          <mxGeometry x="221" y="346" width="61" height="20" as="geometry" />
+        <mxCell id="1qkXfVKf338CE3pDMDKs-12" value="&lt;font style=&quot;font-size: 10px&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp;На кухне:&lt;br&gt;1. Яйца взбить с молоком, добавить по вкусу соль и перец. &lt;br&gt;2.В разогретую с растительным маслом сковороду выложить мелко нарезанные помидоры. &lt;br&gt;3.Потушить 2-3 минуты на небольшом огне. &lt;br&gt;4.К помидорам вылить взбитые яйца.&lt;br&gt;&lt;br&gt;&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeColor=#000000;align=left;" parent="1qkXfVKf338CE3pDMDKs-1" vertex="1">
+          <mxGeometry x="208" y="352" width="217" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
