@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T18:15:43.526Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 YaBrowser/20.11.2.78 Yowser/2.5 Safari/537.36" etag="z-mxnphbXiamouAHQjN-" version="13.10.9" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2020-12-06T18:16:17.907Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.185 YaBrowser/20.11.2.78 Yowser/2.5 Safari/537.36" etag="iJczc_xUXOlm_ILPsBSK" version="13.10.9" type="github" pages="9">
   <diagram id="vaw5s7vHbz8CxRzyLfg5" name="Page-7">
     <mxGraphModel dx="1000" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -163,7 +163,7 @@
         <mxCell id="NITTFeYGn0uS4qTPtE44-8" value="Без сахара" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sygZgUZj2PO8MnpTzKiD-1" vertex="1">
           <mxGeometry x="223" y="241" width="83" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="NITTFeYGn0uS4qTPtE44-9" value="Белки до 30 г." style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sygZgUZj2PO8MnpTzKiD-1" vertex="1">
+        <mxCell id="NITTFeYGn0uS4qTPtE44-9" value="Белки" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sygZgUZj2PO8MnpTzKiD-1" vertex="1">
           <mxGeometry x="223" y="263" width="92" height="20" as="geometry" />
         </mxCell>
         <mxCell id="NITTFeYGn0uS4qTPtE44-10" value="Полезные жиры (омега 3 и т.д.)" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="sygZgUZj2PO8MnpTzKiD-1" vertex="1">
