@@ -395,3 +395,4 @@
 "[english]vgui_HTMLCopyUrl"	"Copy Link Address"
 }
 }
+//Работает все у меня
